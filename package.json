@@ -1,0 +1,16 @@
+{
+  "name": "packageComparitor",
+  "version": "1.0.0",
+  "description": "package comparitor",
+  "main": "src/start.js",
+  "scripts": {
+    "start": "node src/start.js"
+  },
+  "author": "Shad Hasan",
+  "license": "Unknown",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.2"
+  }
+}
+
